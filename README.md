@@ -1,5 +1,5 @@
 # Zaraz
-In Hebrew, Zaraz - זָרָז - means catalyst. Though its only a working title, Zaraz aims to increase Hebrew decoding and reading skills in schoolage students in a gamified, online concept. 
+In Hebrew, Zaraz - זָרָז - means catalyst. Though it's only a working title, Zaraz aims to increase Hebrew decoding and reading skills in schoolage students in a gamified, online concept. 
 
 ## Timeline
 Zaraz is still in early planning stages. It is my hope to start develpment in January with first usable features deployed soon after. Of course, this timeline is dependent on the "successful deployment" of [Gabbai](https://github.com/brandonbng23/gabbai) - issues requiring my attention over there may cause delays over here...
